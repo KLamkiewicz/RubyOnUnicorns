@@ -3,7 +3,7 @@ Ruby On Unicorns
 
 [![Build Status](https://travis-ci.org/Taureli/RoR-Projekt.svg?branch=master)](https://travis-ci.org/Taureli/RoR-Projekt)
 
-Ruby version: 2.0.0
+#Ruby version: 2.1.1
 
 ###Zespół:
 * Jarosław Cimoch
