@@ -3,7 +3,7 @@ Ruby On Unicorns
 
 [![Build Status](https://travis-ci.org/Taureli/RoR-Projekt.svg?branch=master)](https://travis-ci.org/Taureli/RoR-Projekt)
 
-#Ruby version: 2.1.1
+Ruby version: 2.1.1
 
 ###Zespół:
 * Jarosław Cimoch
@@ -11,7 +11,7 @@ Ruby On Unicorns
 * Jakub Karolczak
 
 ###Opis aplikacji:
-Na potrzeby tego projektu napisaliśmy od nowa program o tematyce "myGists", tym razem bazując silnie na testach przed napisaniem odpowiedniego kodu programu.
+Na potrzeby tego projektu napisaliśmy od nowa program o tematyce "myGists", tym razem bazując silnie na testach napisanych do odpowiedniego kodu programu.
 
 Łącznie napisaliśmy 96 testów, z których każdy wykonuje się poprawnie.
 
