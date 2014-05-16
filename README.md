@@ -1,7 +1,7 @@
 Ruby On Unicorns
 ================
 
-[![Build Status](https://travis-ci.org/Taureli/RoR-Projekt.svg?branch=master)](https://travis-ci.org/Taureli/RoR-Projekt)
+[![Build Status](https://travis-ci.org/KLamkiewicz/RubyOnUnicorns.svg)](https://travis-ci.org/Klamkiewicz/RubyOnUnicorns)
 
 Ruby version: 2.1.1
 
