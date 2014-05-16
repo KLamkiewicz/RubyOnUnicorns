@@ -6,7 +6,7 @@ Ruby On Unicorns
 Ruby version: 2.1.1
 
 ###Zespół:
-* Jarosław Cimoch
+* Jarosław Cimoch - proszę patrzeć po commitach ponieważ w contributorach github źle pokazuje mój udział.
 * Krzysztof Lamkiewicz
 * Jakub Karolczak
 
